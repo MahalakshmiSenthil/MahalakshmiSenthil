@@ -1,6 +1,6 @@
 Hi, I'm Mahalakshmi Senthil 👋
 
-Postgraduate Student focused on Data Structures,
+M.Tech Data Science Student focused on Data Structures,
 Algorithms, Software Engineering, and Machine Learning.
 
 📚 Currently Learning
