@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Mahalakshmi Senthil 👋
 
-<!--
-**MahalakshmiSenthil/MahalakshmiSenthil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Postgraduate Student focused on Data Structures,
+Algorithms, Software Engineering, and Machine Learning.
 
-Here are some ideas to get you started:
+📚 Currently Learning
+    • Data Structures & Algorithms
+    • Problem Solving
+    • Software Engineering
+    • Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Primary Language
+    • Python
+
+🎯 Current Focus
+    • Building strong DSA fundamentals
+    • Improving problem-solving skills
+    • Preparing for technical interviews
